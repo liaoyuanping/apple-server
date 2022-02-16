@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apple-server.iml" filepath="$PROJECT_DIR$/apple-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apple-server-boot/apple-server-boot.iml" filepath="$PROJECT_DIR$/apple-server-boot/apple-server-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apple-server-cache/apple-server-cache.iml" filepath="$PROJECT_DIR$/apple-server-cache/apple-server-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apple-server-common/apple-server-common.iml" filepath="$PROJECT_DIR$/apple-server-common/apple-server-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apple-server-event/apple-server-event.iml" filepath="$PROJECT_DIR$/apple-server-event/apple-server-event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apple-server-monitor/apple-server-monitor.iml" filepath="$PROJECT_DIR$/apple-server-monitor/apple-server-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apple-server-netty/apple-server-netty.iml" filepath="$PROJECT_DIR$/apple-server-netty/apple-server-netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apple-server-service/apple-server-service.iml" filepath="$PROJECT_DIR$/apple-server-service/apple-server-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apple-server-spi/apple-server-spi.iml" filepath="$PROJECT_DIR$/apple-server-spi/apple-server-spi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apple-server-test/apple-server-test.iml" filepath="$PROJECT_DIR$/apple-server-test/apple-server-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apple-server-tools/apple-server-tools.iml" filepath="$PROJECT_DIR$/apple-server-tools/apple-server-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apple-server-zk/apple-server-zk.iml" filepath="$PROJECT_DIR$/apple-server-zk/apple-server-zk.iml" />
+    </modules>
+  </component>
+</project>

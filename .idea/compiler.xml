@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="apple-server-service" />
+        <module name="apple-server-tools" />
+        <module name="apple-server-test" />
+        <module name="apple-server-event" />
+        <module name="apple-server-cache" />
+        <module name="apple-server-spi" />
+        <module name="apple-server-zk" />
+        <module name="apple-server-netty" />
+        <module name="apple-server-boot" />
+        <module name="apple-server-common" />
+        <module name="apple-server-monitor" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apple-server" target="1.8" />
+      <module name="apple-server-boot" target="1.8" />
+      <module name="apple-server-cache" target="1.8" />
+      <module name="apple-server-common" target="1.8" />
+      <module name="apple-server-event" target="1.8" />
+      <module name="apple-server-monitor" target="1.8" />
+      <module name="apple-server-netty" target="1.8" />
+      <module name="apple-server-service" target="1.8" />
+      <module name="apple-server-spi" target="1.8" />
+      <module name="apple-server-test" target="1.8" />
+      <module name="apple-server-tools" target="1.8" />
+      <module name="apple-server-zk" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
